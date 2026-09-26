@@ -1,0 +1,24 @@
+{
+  "channel": "gaming",
+  "language": "en-US",
+  "title": "Evidence Before Hype",
+  "description": "Technical demonstration of local narration, editing and captions. Not a GTA news report.",
+  "ai_disclosure": "undecided",
+  "sources": [],
+  "scenes": [
+    {
+      "heading": "Evidence before hype",
+      "narration": "A great gaming story starts with a question. What do we actually know, and what are we only hoping to see?",
+      "claim_type": "analysis",
+      "source_ids": [],
+      "visual": null
+    },
+    {
+      "heading": "Build the argument",
+      "narration": "Our approach is to compare the evidence, explain our reasoning, and label speculation clearly. This is a technical preview of the video production system, not a news report.",
+      "claim_type": "analysis",
+      "source_ids": [],
+      "visual": null
+    }
+  ]
+}
