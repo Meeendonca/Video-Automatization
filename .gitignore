@@ -1,0 +1,20 @@
+# Local environments and generated artifacts
+.venv/
+.venv-voice/
+__pycache__/
+*.pyc
+models/
+projects/
+media/
+renders/
+work/
+.env
+.env.*
+!.env.example
+*.onnx
+*.bin
+*.safetensors
+*.mp4
+*.wav
+*.mp3
+*.zip
