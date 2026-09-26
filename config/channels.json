@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "defaults": {
+    "language": "en-US",
+    "max_duration_seconds": 900,
+    "width": 1920,
+    "height": 1080,
+    "presenter": false,
+    "narration": "synthetic",
+    "paid_services_enabled": false,
+    "review_before_export": true,
+    "automatic_upload": false,
+    "min_duration_seconds": 480,
+    "production_style": "youth-v1",
+    "automatic_duration": true,
+    "generate_description": false,
+    "generate_captions": false,
+    "generate_thumbnail": false,
+    "corner_source_labels": false,
+    "min_video_share": 0.8,
+    "music_style": "trap",
+    "music_gain_db": -10,
+    "voice": "Kokoro: 75% am_fenrir + 25% am_michael"
+  },
+  "channels": [
+    {
+      "id": "gaming",
+      "topic": "GTA 6 and upcoming game releases",
+      "tone": "Conversational young adult English, everyday phrasing, simple explanations, light humor, occasional natural slang; no forced slang or artificial hype",
+      "editorial_rules": [
+        "Prioritize GTA 6 while supporting other game releases.",
+        "Label confirmed facts, rumors and personal analysis separately.",
+        "Record publication dates and source URLs; verify time-sensitive claims.",
+        "Never present synthetic footage as actual gameplay."
+      ]
+    },
+    {
+      "id": "company_stories",
+      "topic": "Lesser-known documented company histories",
+      "tone": "Investigative, cinematic, measured",
+      "editorial_rules": [
+        "Use documented events rather than invented secrets.",
+        "Distinguish allegations, findings and established facts.",
+        "Preserve sources for factual claims and relevant company responses.",
+        "Identify illustrative reconstructions where they could be mistaken for evidence."
+      ]
+    }
+  ]
+}
